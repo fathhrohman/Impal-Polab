@@ -1,0 +1,28 @@
+jika ingin comot file yang baru:
+git fetch
+git checkout master
+git merge upstream/master
+
+
+jika ingin add / setelah modif file
+git add namafile
+git commit -m "kasihpesandisini"
+git push
+
+
+pull masih manual via web dan pastikan yang dibuka repository FORK
+
+
+#untuk MASTER
+Sebelum mengubah isi, lakukan
+
+git pull origin master //untuk memastikan local repository sesuai dengan online repository
+
+#UNTUK FORK
+
+git fetch upstream
+git merge upstream/master
+
+
+
+sekian titit baru ditmabahakn
