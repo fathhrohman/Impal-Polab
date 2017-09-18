@@ -1,0 +1,5 @@
+jika ingin comot file yang baru:
+git fetch
+git checkout master
+git merge upstream/master
+
