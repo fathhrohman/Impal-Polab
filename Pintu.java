@@ -20,5 +20,5 @@ public class Pintu {
         this.close = close;
     }
 
-
+// saldasd
 }
