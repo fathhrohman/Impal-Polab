@@ -22,6 +22,6 @@ public class Elevator {
     public void setLantaiSekarang(int lantaiSekarang) {
         this.lantaiSekarang = lantaiSekarang;
     }
-    
+    // jangan ada ttit
     
 }
