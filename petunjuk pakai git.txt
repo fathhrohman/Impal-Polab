@@ -21,4 +21,8 @@ git pull origin master //untuk memastikan local repository sesuai dengan online 
 #UNTUK FORK
 
 git fetch upstream
-git pull
+git merge upstream/master
+
+
+
+sekian titit baru ditmabahakn
