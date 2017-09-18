@@ -3,3 +3,11 @@ git fetch
 git checkout master
 git merge upstream/master
 
+
+jika ingin add / setelah modif file
+git add namafile
+git commit -m "kasihpesandisini"
+git push
+
+
+pull masih manual via web dan pastikan yang dibuka repository FORK
