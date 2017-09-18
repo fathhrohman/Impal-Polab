@@ -23,5 +23,5 @@ public class Elevator {
         this.lantaiSekarang = lantaiSekarang;
     }
     
-    
+    //comment apa gitu
 }
