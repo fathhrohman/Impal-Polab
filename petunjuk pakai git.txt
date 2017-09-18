@@ -11,3 +11,14 @@ git push
 
 
 pull masih manual via web dan pastikan yang dibuka repository FORK
+
+
+#untuk MASTER
+Sebelum mengubah isi, lakukan
+
+git pull origin master //untuk memastikan local repository sesuai dengan online repository
+
+#UNTUK FORK
+
+git fetch upstream
+git pull
